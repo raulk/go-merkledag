@@ -51,9 +51,9 @@
     },
     {
       "author": "why",
-      "hash": "QmWfhv1D18DRSiSm73r4QGcByspzPtxxRTcmHW3axFXZo8",
+      "hash": "QmRkfFeKYsQ6Boa3nZsPbc66Z97ZBbUesbr2pwTZohkV6X",
       "name": "go-blockservice",
-      "version": "1.1.13"
+      "version": "1.1.14"
     }
   ],
   "gxVersion": "0.12.1",
